@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @achatterji1
+- 👋 Hi, I’m Arpan Chatterji.
 - 👀 I’m interested in Data Sciences.
 - 🌱 I’m currently pursuing my Master's in Economics at The University of Texas Austin.
 - 💞️ I’m looking to collaborate on data analysis projects.
